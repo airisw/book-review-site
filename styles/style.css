@@ -1,8 +1,58 @@
+header {
+    background-color: red;
+    color:white;
+    border: white;
+    border-style: dashed;
+    /* padding: 20px; */
+}
+
 h1 {
-    background-color: darksalmon;
+    font-style: italic;
+    color: wheat;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+a:hover {
+    color: whitesmoke;
+}
+
+a {
+    color: wheat
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    background-color: rgb(250, 145, 145);
+}
+
+
+h2 {
+    padding-left: 1em;
+    padding-top: 5px;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+}
+
+em {
+    font-style: italic;
 }
 
 footer {
-    background-color: antiquewhite;
+    background-color: red;
+    color: white;
+    border: white;
+    border-style: dashed;
+    text-align: center;
+    padding: 5px;
 }
-
